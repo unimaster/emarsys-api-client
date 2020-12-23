@@ -1,5 +1,5 @@
 {
-    "name": "lingualeo/emarsys-api-client",
+    "name": "unimaster/emarsys-api-client",
     "description": "Emarsys API client",
     "require": {
         "php": ">=5.3.3",
@@ -10,14 +10,14 @@
     },
     "autoload": {
         "psr-0": {
-            "LinguaLeo\\Emarsys": "src/"
+            "unimaster\\Emarsys": "src/"
         }
     },
     "license": "MIT",
     "authors": [
         {
-            "name": "Dmitry Ulyanov",
-            "email": "d.ulyanov@lingualeo.com"
+            "name": "Stanislav Poddubski",
+            "email": "sp@mageassist.com"
         }
     ]
 }
